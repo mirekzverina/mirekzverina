@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mirek 👋
 
-<!--
-**mirekzverina/mirekzverina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+I build modern web applications, internal systems and e-commerce solutions, working across both front-end and back-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is **React, TypeScript and Python**, with additional experience in **Vue.js, FastAPI, databases, API integrations and cloud-based solutions**.
+
+## Tech Stack
+
+**Front-End**  
+React · TypeScript · JavaScript · Vue.js · HTML5 · SCSS · Tailwind CSS
+
+**Back-End**  
+Python · FastAPI · Django · PHP · REST APIs
+
+**Databases**  
+PostgreSQL · MySQL · MariaDB · SQLite
+
+**Tools & Cloud**  
+Git · Linux · AWS · Cypress · n8n · AI / LLM
+
+## Projects
+
+I'm currently building a collection of full-stack applications and smaller development experiments.
+
+Selected projects and code samples will be available here on GitHub. Source code for some larger projects is kept private and is available on request.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/miroslavzverina)
+- Portfolio — coming soon
