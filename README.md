@@ -1,3 +1,5 @@
+[English](./README.md) | [Čeština](./README_CZ.md)
+
 # Hi, I'm Mirek 👋
 
 ### Full-Stack Developer
