@@ -28,5 +28,5 @@ Selected projects and code samples will be available here on GitHub. Source code
 
 ## Connect
 
-- [Portfolio](https://www.mirekzverina.netlify.app)
+- [Portfolio](https://mirekzverina.netlify.app)
 - [LinkedIn](https://www.linkedin.com/in/miroslavzverina)
