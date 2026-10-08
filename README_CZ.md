@@ -31,4 +31,4 @@ Vybrané projekty a ukázky kódu budou dostupné zde na GitHubu. Zdrojový kód
 ## Kontakt
 
 - [Portfolio](https://mirekzverina.netlify.app)
-- [LinkedIn](https://www.linkedin.com/in/miroslavzverina)
+- [LinkedIn](https://www.linkedin.com/in/mirekzverina)
